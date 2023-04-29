@@ -389,6 +389,5 @@ public class homePage extends JFrame {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setResizable(true);
         frame.setBackground(Color.LIGHT_GRAY);
-
-    }
+ }
 }
